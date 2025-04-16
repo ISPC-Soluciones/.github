@@ -15,7 +15,7 @@
 <div align=center>
 <h2 align="center">Nuestro Equipo 🤓</h2>
   
-| Nombre            | Rol                    | Usuario de GitHub                                       |
+| Miembro           | Rol                    | Usuario de GitHub                                       |
 |-------------------|------------------------|---------------------------------------------------------|
 | Cristian Vellio   | Full Stack Developer   | [@CristianVellio](https://github.com/CristianVellio)    |
 | Nahir Ñañez       | Desarrolladora Frontend| [@nahir1009](https://github.com/nahir1009)              |
@@ -25,6 +25,19 @@
 | Matias Rios       | QA Tester              | [@LeonMatias22](https://github.com/LeonMatias22)        |
 | Ivana Rojas       | Project Manager        | [@ivanarojas](https://github.com/ivanarojas)            |
 | Alejandro Mainero | Data Analyst           | [@AMainero](https://github.com/AMainero)                |
+</div>
+<br>
+
+<div align=center>
+<h2 align="center">Nuestros Proyectos 🎯</h2>
+<h3 align="center">Bienestar+ 💪</h3>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ba9c092a-e254-4c67-b0ed-d4ba00c1099f" alt="ispc soluciones" width="200" height="200">
+</div>
+  
+Para conocer mas acerca de nuestro proyecto actual Bienstar+ dirigete [aquí](https://github.com/ISPC-Soluciones/Bienestar-Plus)
+
+
 </div>
 <br>
 
