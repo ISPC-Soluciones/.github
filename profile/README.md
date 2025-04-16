@@ -2,7 +2,7 @@
   ISPC Soluciones
 </h1>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/5e33a3ff-f7d7-4f75-8d55-640b523b8fa6" alt="ispc soluciones" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/5e33a3ff-f7d7-4f75-8d55-640b523b8fa6" alt="ispc soluciones" width="400" height="400">
 </div>
 <br>
 
