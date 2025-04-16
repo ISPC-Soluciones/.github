@@ -6,7 +6,7 @@
 </div>
 <br>
 
-<h2 align=center>Acerca de nuestra mision 💡</h2>
+<h2 align=center>Acerca de Nuestra Mision 💡</h2>
 <div align=justify>
 <p>ISPC Soluciones es una compañía de desarrollo de software conformada por programadores del Instituto Superior Politecnico de Cordoba, comprometidos con generar impacto social positivo a través de la tecnología. Creemos en el poder del código como herramienta de transformación, promoviendo soluciones innovadoras que fomenten la sostenibilidad ambiental, el desarrollo humano y la evolución tecnológica. Nos enfocamos en crear sistemas escalables, eficientes y alineados con los desafíos del presente y del futuro.<br>
 </p>
