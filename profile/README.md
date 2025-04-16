@@ -34,7 +34,7 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/ba9c092a-e254-4c67-b0ed-d4ba00c1099f" alt="ispc soluciones" width="200" height="200">
 </div>
-  
+<br>
 Para conocer mas acerca de nuestro proyecto actual Bienstar+ dirigete [aquí](https://github.com/ISPC-Soluciones/Bienestar-Plus)
 
 
