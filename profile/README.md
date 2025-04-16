@@ -18,7 +18,7 @@
 | Miembro           | Rol                    | Usuario de GitHub                                       |
 |-------------------|------------------------|---------------------------------------------------------|
 | Cristian Vellio   | Full Stack Developer   | [@CristianVellio](https://github.com/CristianVellio)    |
-| Nahir Ñañez       | Desarrolladora Frontend| [@nahir1009](https://github.com/nahir1009)              |
+| Nahir Ñañez       | Desarrollador Frontend | [@nahir1009](https://github.com/nahir1009)              |
 | Franco Miranda    | DevOps                 | [@MirandaFrancoCBA](https://github.com/MirandaFrancoCBA)|
 | Eric Heredia      | Desarrollador Backend  | [@Heredia-Eric](https://github.com/Heredia-Eric)        |
 | Santiago Bustos   | UX/UI Designer         | [@santyagote](https://github.com/santyagote)            |
