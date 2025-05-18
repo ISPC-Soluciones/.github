@@ -35,8 +35,14 @@
 </div>
 <br>
 Para conocer mas acerca de nuestro proyecto actual Bienstar+ dirigete <a href="https://github.com/ISPC-Soluciones/Bienestar-Plus">aquí</a>
-
-
+<br>
+<br>
+<h3 align="center"> Toolkit de Administracion Jr ⚙️</h3>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/84820de4-d85a-4d4e-ba56-4d9f718d6f91" alt="" width="200" height="200">
+</div>
+<br>
+Para conocer mas acerca de nuestro proyecto actual Toolkit de Administracion Bash dirigete <a href="https://github.com/ISPC-Soluciones/toolkit-linux">aquí</a>
 </div>
 <br>
 
