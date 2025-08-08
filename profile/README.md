@@ -17,7 +17,7 @@
   
 | Miembro           | Rol                    | Usuario de GitHub                                                 |
 |-------------------|------------------------|-------------------------------------------------------------------|
-| Cristian Vellio   | Scrum Master/Full-Stack Developer | [@CristianVellio](https://github.com/CristianVellio)    |
+| Cristian Vellio   | Scrum Master / Developer         | [@CristianVellio](https://github.com/CristianVellio)    |
 | Nahir Ñañez       | Desarrollador Frontend           | [@nahir1009](https://github.com/nahir1009)              |
 | Franco Miranda    | Full-Stack Developer             | [@MirandaFrancoCBA](https://github.com/MirandaFrancoCBA)|
 | Eric Heredia      | UX/UI Designer                   | [@Heredia-Eric](https://github.com/Heredia-Eric)        |
