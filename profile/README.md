@@ -36,6 +36,8 @@
 <br>
 Para conocer mas acerca de nuestro proyecto actual Bienstar+ dirigete <a href="https://github.com/ISPC-Soluciones/Bienestar-Plus">aquí</a>
 <br>
+O si prefieres, puedes leer la docmuentacion del proyecto en la <a href="https://github.com/ISPC-Soluciones/Bienestar-Plus/wiki">Wiki</a>
+<br>
 <br>
 <h3 align="center"> Toolkit de Administracion Jr ⚙️</h3>
 <div align="center">
