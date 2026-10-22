@@ -19,7 +19,7 @@
 |-------------------|------------------------|-------------------------------------------------------------------|
 | Cristian Vellio   | Scrum Master / Developer         | [@CristianVellio](https://github.com/CristianVellio)    |
 | Nahir Ñañez       | Desarrollador Frontend           | [@nahir1009](https://github.com/nahir1009)              |
-| Franco Miranda    | Full-Stack Developer             | [@MirandaFrancoCBA](https://github.com/MirandaFrancoCBA)|
+| Franco Miranda    | QA / Developer             | [@MirandaFrancoCBA](https://github.com/MirandaFrancoCBA)|
 | Eric Heredia      | UX/UI Designer                   | [@Heredia-Eric](https://github.com/Heredia-Eric)        |
 | Santiago Bustos   | Desarrollador Backend            | [@santyagote](https://github.com/santyagote)            |
 
