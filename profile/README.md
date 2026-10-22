@@ -22,7 +22,6 @@
 | Franco Miranda    | Full-Stack Developer             | [@MirandaFrancoCBA](https://github.com/MirandaFrancoCBA)|
 | Eric Heredia      | UX/UI Designer                   | [@Heredia-Eric](https://github.com/Heredia-Eric)        |
 | Santiago Bustos   | Desarrollador Backend            | [@santyagote](https://github.com/santyagote)            |
-| Matias Rios       | Full-Stack Developer             | [@LeonMatias22](https://github.com/LeonMatias22)        |
 
 </div>
 <br>
